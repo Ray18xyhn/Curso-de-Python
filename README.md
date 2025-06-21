@@ -1,2 +1,2 @@
-# Curso de Python CursoEmVideo
-Exercícios do curso de Python - Cruso em Vídeo
+# Curso de Python Curso em Vídeo
+Estou salvando todos os meus execícios de Python do curso em vídeo. :b
