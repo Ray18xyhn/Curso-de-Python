@@ -1,2 +1,11 @@
 # Curso de Python
-Estou salvando todos os meus execícios de Python do curso em vídeo e do canal HashDash. :b
+
+Este repositório contém minhas anotações e exercícios resolvidos durante os estudos em Python.
+
+### Canais de aprendizado:
+
+- **Curso em Vídeo**  
+  Canal no [YouTube](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) e perfil no [GitHub](https://github.com/gustavoguanabara)
+
+- **HashDash**  
+  Não encontrei o canal dele. :c
